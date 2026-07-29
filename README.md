@@ -73,7 +73,7 @@ I am particularly interested in developing **reproducible research, practical AI
 
 ## ⭐ Featured Projects
 
-### 🧠 Low-Resource Domain-Specific Question Answering
+### 🧠 Adaptive Knowledge Injection for Low-Resource Knowledge-Intensive Language Tasks: A Unified Framework Integrating Retrieval-Augmented Generation, Parameter-Efficient Fine-Tuning, and Hybrid Adaptation
 
 **Research focus:** Retrieval-Augmented Generation + Parameter-Efficient Fine-Tuning
 
@@ -89,11 +89,11 @@ A research-oriented framework for investigating knowledge-intensive question ans
 * Evaluation and error analysis
 * Low-resource NLP
 
-🔗 **Repository:** `Coming soon`
+🔗 **Repository:** `https://github.com/skm08/adaptive-knowledge-injection`
 
 ---
 
-### 🌱 Self-Supervised Learning for Crop Disease Classification
+### 🌱 Label-Efficient Agricultural Image Classification through Self-Supervised Representation Learning and Adaptive Active Learning under Limited Annotation Budgets
 
 A comparative study of **self-supervised and supervised learning** for crop disease detection using low-resource agricultural image datasets.
 
@@ -111,7 +111,7 @@ A comparative study of **self-supervised and supervised learning** for crop dise
 
 ---
 
-### ⚙️ Machine Learning-Based Predictive Maintenance
+### ⚙️ Design and Development of an AI-Based Predictive Maintenance System for Industrial Machine Failure Prediction
 
 A machine learning project focused on predicting equipment failures from industrial sensor data.
 
@@ -125,24 +125,7 @@ A machine learning project focused on predicting equipment failures from industr
 * SHAP
 * Predictive maintenance
 
-🔗 **Repository:** `Coming soon`
-
----
-
-### 🔍 Systematic Fairness Auditing of Machine Learning Models
-
-A research project investigating fairness and bias across machine learning applications in **justice, finance, and low-resource language domains**.
-
-**Focus areas:**
-
-* Fairness evaluation
-* Bias analysis
-* COMPAS
-* Financial risk prediction
-* Bangla hate speech
-* Pareto fairness analysis
-
-🔗 **Repository:** `Coming soon`
+🔗 **Repository:** `https://github.com/skm08/predictive-maintenance`
 
 ---
 
@@ -162,7 +145,7 @@ A full-stack web application designed as a social networking platform for develo
 * Authentication
 * Database design
 
-🔗 **Repository:** `Coming soon`
+🔗 **Repository:** `https://github.com/skm08/Social-Connectivity-with-Customized-User-Profile`
 
 ---
 
@@ -182,7 +165,7 @@ A structured collection of algorithmic problem-solving solutions developed throu
 * Greedy Algorithms
 * Backtracking
 
-🔗 **Repository:** `Coming soon`
+🔗 **Repository:** `https://github.com/skm08/Data-Structures-Algorithms`
 
 ---
 
@@ -192,30 +175,46 @@ A structured collection of algorithmic problem-solving solutions developed throu
 
 **Systematic Fairness Auditing of Machine Learning Models Across Justice, Finance, and Low-Resource Language Domains**
 
-Accepted at **ICASSDS 2025**.
+Accepted at **International Conference on Applied Statistics and Data Science (ICASDS 2025)**.
 
 **Research areas:** Fairness in AI · Machine Learning · Responsible AI · Low-Resource NLP
 
 ---
 
+**Comparative Study of Self-Supervised and Supervised Learning for Crop Disease Detection in Low-Resource Agricultural Data.**
+
+Accepted at **International Conference on Science and Humanities for Sustainable Development (ICSHSD 2025)**.
+
+**Research areas:** Self-Supervised · Machine Learning · Supervised Learning · Low-Resource 
+
+---
+
+**Machine Learning and Deep Learning-Based Predictive Maintenance: A Data-Driven Framework for Manufacturing Systems and Industrial Equipment Reliability**
+
+Accepted at **International Conference on Mechanical, Manufacturing and Process Engineering (ICMMPE 2026)**.
+
+**Research areas:** Predictive Maintenance · Machine Learning · Deep Learning
+
+---
 ### Ongoing Research
 
-**Machine Learning-Based Predictive Maintenance for Manufacturing Equipment**
+**Adaptive Knowledge Injection for Low-Resource Knowledge-Intensive Language Tasks: A Unified Framework Integrating Retrieval-Augmented Generation, Parameter-Efficient Fine-Tuning, and Hybrid Adaptation**
 
-Research project using industrial sensor data to investigate machine learning approaches for predictive maintenance.
-
-**Research areas:** Machine Learning · Predictive Maintenance · Industrial AI · Explainable AI
+**Research areas:** Adaptive Knowledge Injection · Low-Resource · Retrieval-Augmented Generation · Parameter-Efficient Fine-Tuning
 
 ---
 
-**Comparative Study of Self-Supervised and Supervised Learning for Crop Disease Detection in Low-Resource Agricultural Data**
+**Label-Efficient Agricultural Image Classification through Self-Supervised Representation Learning and Adaptive Active Learning under Limited Annotation Budgets**
 
-Research project investigating self-supervised representation learning and supervised learning for agricultural computer vision.
-
-**Research areas:** Computer Vision · Self-Supervised Learning · SimCLR · Low-Resource AI
+**Research areas:** Computer Vision · Self-Supervised Learning · Adaptive Active Learning · Low-Resource AI
 
 ---
 
+**Evaluating the Reliability, Faithfulness and Robustness of Explainable AI Methods for Low-Resource Agricultural Image Classification**
+
+**Research areas:** Computer Vision · Reliability · Faithfulness · Low-Resource AI · Explainable AI
+
+---
 ### Current Research Direction
 
 My current research direction is centered on:
@@ -245,7 +244,7 @@ I am actively developing my machine learning expertise through Kaggle competitio
 
 🎯 **Long-term Goal:** Kaggle Grandmaster
 
-🔗 **Kaggle:** `YOUR_KAGGLE_PROFILE_URL`
+🔗 **Kaggle:** `https://www.kaggle.com/sagorkumarmitra`
 
 ---
 
@@ -262,7 +261,7 @@ I use algorithmic problem solving to strengthen my foundations in **Data Structu
 
 `Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming` · `Greedy` · `Binary Search` · `Backtracking`
 
-🔗 **LeetCode:** `YOUR_LEETCODE_PROFILE_URL`
+🔗 **LeetCode:** `https://leetcode.com/skm08/`
 
 ---
 
