@@ -325,19 +325,19 @@ I am also preparing for future **MS/PhD research opportunities internationally**
 
 ## 🌍 Professional & Academic Profiles
 
-* 💼 **LinkedIn:** `YOUR_LINKEDIN_URL`
-* 🏆 **Kaggle:** `YOUR_KAGGLE_PROFILE_URL`
-* 🧩 **LeetCode:** `YOUR_LEETCODE_PROFILE_URL`
-* 📚 **Google Scholar:** `YOUR_GOOGLE_SCHOLAR_URL`
-* 🆔 **ORCID:** `YOUR_ORCID_URL`
+* 💼 **LinkedIn:** `https://www.linkedin.com/in/skmitra90/`
+* 🏆 **Kaggle:** `https://www.kaggle.com/sagorkumarmitra`
+* 🧩 **LeetCode:** `https://leetcode.com/skm08/`
+* 📚 **Google Scholar:** ``
+* 🆔 **ORCID:** ``
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skm08\&show_icons=true\&hide_border=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skm08\&layout=compact\&hide_border=true)
 
 ---
 
