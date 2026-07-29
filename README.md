@@ -333,14 +333,6 @@ I am also preparing for future **MS/PhD research opportunities internationally**
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skm08\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skm08\&layout=compact\&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I am interested in connecting with researchers, engineers, developers, students, and practitioners working in **AI/ML, NLP, Computer Vision, LLMs, scientific computing, and engineering applications of AI**.
